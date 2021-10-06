@@ -1,7 +1,6 @@
 {
   "name": "food",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,10 +17,20 @@
     "babel-loader": "^8.1.0",
     "core-js": "^3.6.5",
     "json-server": "^0.16.1",
-    "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.11"
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
-    "jquery": "^3.5.1"
-  }
+    "jquery": "^3.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolesnikaleksv/Petrichenko_jquery.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/kolesnikaleksv/Petrichenko_jquery/issues"
+  },
+  "homepage": "https://github.com/kolesnikaleksv/Petrichenko_jquery#readme",
+  "description": ""
 }
